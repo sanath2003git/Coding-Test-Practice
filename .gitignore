@@ -1,0 +1,20 @@
+# Java
+*.class
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments
+venv/
+env/
+.venv/
+
+# IDEs
+.vscode/
+.idea/
+
+# Operating System Files
+.DS_Store
+Thumbs.db
